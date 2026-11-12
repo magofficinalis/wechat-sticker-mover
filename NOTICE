@@ -1,0 +1,11 @@
+Sticker Mover / 表情搬运助手
+Copyright (C) 2026 magofficinalis and contributors
+
+Project-authored source is licensed under GNU GPL version 3 only
+(SPDX-License-Identifier: GPL-3.0-only). See LICENSE.
+This program comes with no warranty, to the extent permitted by law.
+
+Third-party source, runtime dependencies, trademarks and UI compatibility
+fixtures retain their respective notices and rights. See THIRD_PARTY_NOTICES.md.
+The project is not affiliated with or endorsed by Tencent, Weixin, Xiaohongshu
+or LDPlayer. User-created/imported stickers are not included in this repository.

@@ -1,0 +1,88 @@
+[
+  {
+    "file": "python-3.11.4/LICENSE",
+    "url": "https://raw.githubusercontent.com/python/cpython/v3.11.4/LICENSE",
+    "component_version": "python-3.11.4",
+    "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf"
+  },
+  {
+    "file": "python-3.11.4/INCORPORATED-SOFTWARE.rst",
+    "url": "https://raw.githubusercontent.com/python/cpython/v3.11.4/Doc/license.rst",
+    "component_version": "python-3.11.4",
+    "sha256": "4d6119c3d88da68c95cf4d61683e327758074d32ff205651254369481fd76bd7"
+  },
+  {
+    "file": "openssl-1.1.1u/LICENSE",
+    "url": "https://raw.githubusercontent.com/openssl/openssl/OpenSSL_1_1_1u/LICENSE",
+    "component_version": "openssl-1.1.1u",
+    "sha256": "c32913b33252e71190af2066f08115c69bc9fddadf3bf29296e20c835389841c"
+  },
+  {
+    "file": "tk-8.6.12/TCL-LICENSE",
+    "url": "https://raw.githubusercontent.com/tcltk/tcl/core-8-6-12/license.terms",
+    "component_version": "tk-8.6.12",
+    "sha256": "c0a69a2bfd757361ec7e6143973b103c90409316b49e9c88db26ad6388e79f16"
+  },
+  {
+    "file": "tk-8.6.12/TK-LICENSE",
+    "url": "https://raw.githubusercontent.com/tcltk/tk/core-8-6-12/license.terms",
+    "component_version": "tk-8.6.12",
+    "sha256": "2cde822b93ca16ae535c954b7dfe658b4ad10df2a193628d1b358f1765e8b198"
+  },
+  {
+    "file": "xz-5.4.2/COPYING",
+    "url": "https://raw.githubusercontent.com/tukaani-project/xz/v5.4.2/COPYING",
+    "component_version": "xz-5.4.2",
+    "sha256": "72d7ef9c98be319fd34ce88b45203b36d5936f9c49e82bf3198ffee5e0c7d87e"
+  },
+  {
+    "file": "xz-5.4.2/COPYING.GPLv2",
+    "url": "https://raw.githubusercontent.com/tukaani-project/xz/v5.4.2/COPYING.GPLv2",
+    "component_version": "xz-5.4.2",
+    "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+  },
+  {
+    "file": "xz-5.4.2/COPYING.GPLv3",
+    "url": "https://raw.githubusercontent.com/tukaani-project/xz/v5.4.2/COPYING.GPLv3",
+    "component_version": "xz-5.4.2",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "file": "xz-5.4.2/COPYING.LGPLv2.1",
+    "url": "https://raw.githubusercontent.com/tukaani-project/xz/v5.4.2/COPYING.LGPLv2.1",
+    "component_version": "xz-5.4.2",
+    "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551"
+  },
+  {
+    "file": "libffi-3.4.4/LICENSE",
+    "url": "https://raw.githubusercontent.com/libffi/libffi/v3.4.4/LICENSE",
+    "component_version": "libffi-3.4.4",
+    "sha256": "2c9c2acb9743e6b007b91350475308aee44691d96aa20eacef8e199988c8c388"
+  },
+  {
+    "file": "zlib-1.2.13/LICENSE",
+    "url": "https://raw.githubusercontent.com/madler/zlib/v1.2.13/LICENSE",
+    "component_version": "zlib-1.2.13",
+    "sha256": "845efc77857d485d91fb3e0b884aaa929368c717ae8186b66fe1ed2495753243"
+  },
+  {
+    "file": "sqlite-3.41.2/LICENSE.md",
+    "url": "https://raw.githubusercontent.com/sqlite/sqlite/version-3.41.2/LICENSE.md",
+    "component_version": "sqlite-3.41.2",
+    "sha256": "9c6479123f32a1ed50d9a0af203dfe8972e65035b0cdeef436b5f8d0924517fe"
+  },
+  {
+    "file": "bzip2-1.0.8/LICENSE",
+    "url": "https://sourceware.org/pub/bzip2/bzip2-1.0.8.tar.gz",
+    "archive_member": "bzip2-1.0.8/LICENSE",
+    "component_version": "bzip2-1.0.8",
+    "sha256": "c6dbbf828498be844a89eaa3b84adbab3199e342eb5cb2ed2f0d4ba7ec0f38a3"
+  },
+  {
+    "file": "android-platform-tools-36.0.0/NOTICE.txt",
+    "component_version": "android-platform-tools-36.0.0",
+    "url": "https://dl.google.com/android/repository/platform-tools_r36.0.0-win.zip",
+    "archive_member": "platform-tools/NOTICE.txt",
+    "sha256": "b319ee2dc88f5d38b0921b0349bf6f7a1f7b30453ecef2180a74989503d7f704"
+  }
+]

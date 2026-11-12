@@ -1,0 +1,34 @@
+<hierarchy>
+  <node text="" class="android.widget.ListView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[0,136][1440,2560]">
+    <node text="" class="android.widget.RelativeLayout" package="com.xingin.xhs" clickable="true" scrollable="false" visible-to-user="true" bounds="[0,136][1440,280]">
+      <node text="" class="android.widget.ImageView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[24,156][124,256]" />
+      <node text="全部" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[144,189][200,227]" />
+      <node text="5" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[214,191][227,224]" />
+    </node>
+    <node text="" class="android.widget.RelativeLayout" package="com.xingin.xhs" clickable="true" scrollable="false" visible-to-user="true" bounds="[0,282][1440,426]">
+      <node text="" class="android.widget.ImageView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[24,302][124,402]" />
+      <node text="XHSImport_000000000001" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[144,335][470,373]" />
+      <node text="1" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[484,337][497,370]" />
+    </node>
+    <node text="" class="android.widget.RelativeLayout" package="com.xingin.xhs" clickable="true" scrollable="false" visible-to-user="true" bounds="[0,428][1440,572]">
+      <node text="" class="android.widget.ImageView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[24,448][124,548]" />
+      <node text="XHSImport_000000000002" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[144,481][480,519]" />
+      <node text="1" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[494,483][507,516]" />
+    </node>
+    <node text="" class="android.widget.RelativeLayout" package="com.xingin.xhs" clickable="true" scrollable="false" visible-to-user="true" bounds="[0,574][1440,718]">
+      <node text="" class="android.widget.ImageView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[24,594][124,694]" />
+      <node text="XHSImport_000000000003" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[144,627][486,665]" />
+      <node text="1" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[500,629][513,662]" />
+    </node>
+    <node text="" class="android.widget.RelativeLayout" package="com.xingin.xhs" clickable="true" scrollable="false" visible-to-user="true" bounds="[0,720][1440,864]">
+      <node text="" class="android.widget.ImageView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[24,740][124,840]" />
+      <node text="XHSImport_000000000004" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[144,773][480,811]" />
+      <node text="1" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[494,775][507,808]" />
+    </node>
+    <node text="" class="android.widget.RelativeLayout" package="com.xingin.xhs" clickable="true" scrollable="false" visible-to-user="true" bounds="[0,866][1440,1010]">
+      <node text="" class="android.widget.ImageView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[24,886][124,986]" />
+      <node text="XHSImport_000000000005" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[144,919][476,957]" />
+      <node text="1" class="android.widget.TextView" package="com.xingin.xhs" clickable="false" scrollable="false" visible-to-user="true" bounds="[490,921][503,954]" />
+    </node>
+  </node>
+</hierarchy>

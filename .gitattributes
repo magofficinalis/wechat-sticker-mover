@@ -1,0 +1,7 @@
+* text=auto
+# Preserve upstream license bytes: sources.json verifies these exact hashes.
+packaging/windows/runtime-licenses/** -text
+*.png binary
+*.gif binary
+*.webp binary
+*.docx binary

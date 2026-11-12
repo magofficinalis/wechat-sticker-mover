@@ -1,0 +1,5 @@
+Microsoft Visual C++ 2015-2022 Runtime family license.
+Official source: https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Visual-C-Runtime-2015-2022-License-1.docx
+Downloaded 2026-11-12. This is the current official family license, not a claim that the original Anaconda 14.27.29016 package contained this document. LICENSE.txt is a text extraction for convenience; the original DOCX is also included.
+Package DLL versions are recorded separately by collect_licenses.py.
+SHA-256 (DOCX): f1e3d56ceb2ad68aae0711b910375009e651ac5530fa0760f0dea6e81e54fae1
